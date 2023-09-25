@@ -1,0 +1,1 @@
+namespace Punto1.clases;
