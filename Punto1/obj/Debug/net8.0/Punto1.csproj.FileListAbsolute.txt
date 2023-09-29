@@ -1,0 +1,15 @@
+D:\Proyectos_C#\Taller2\Punto1\bin\Debug\net8.0\Punto1.exe
+D:\Proyectos_C#\Taller2\Punto1\bin\Debug\net8.0\Punto1.deps.json
+D:\Proyectos_C#\Taller2\Punto1\bin\Debug\net8.0\Punto1.runtimeconfig.json
+D:\Proyectos_C#\Taller2\Punto1\bin\Debug\net8.0\Punto1.dll
+D:\Proyectos_C#\Taller2\Punto1\bin\Debug\net8.0\Punto1.pdb
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.AssemblyInfoInputs.cache
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.AssemblyInfo.cs
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.csproj.CoreCompileInputs.cache
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.sourcelink.json
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.dll
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\refint\Punto1.dll
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.pdb
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\Punto1.genruntimeconfig.cache
+D:\Proyectos_C#\Taller2\Punto1\obj\Debug\net8.0\ref\Punto1.dll
